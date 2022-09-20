@@ -1,1 +1,24 @@
 /* styles go here */
+.personalinformation {
+  margin-bottom: 10px;
+}
+
+.registation {
+  margin-bottom: 10px;
+}
+
+.interestingfact {
+  margin-bottom: 10px;
+}
+
+.info {
+  margin-bottom: 10px;
+}
+
+.form-field {
+  margin-bottom: 20px;
+}
+
+#time {
+  margin-top: 10px;
+}
